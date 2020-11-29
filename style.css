@@ -23,7 +23,7 @@ body
 	content: '';
 	position: absolute;
 	top: -130px;
-    right: -129px;
+        right: -129px;
 	border-top: 100px solid transparent;
 	border-right: 100px solid #fff;
 	border-bottom: 100px solid transparent;
@@ -40,5 +40,4 @@ body
 	height: 50px;
 	background: #4285f4;
 	transform: translate(-1px,-29px);
-
 }
