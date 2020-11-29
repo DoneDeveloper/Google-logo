@@ -25,7 +25,7 @@ body
 	top: -130px;
         right: -129px;
 	border-top: 100px solid transparent;
-	border-right: 100px solid #fff;
+	border-right: 100px solid #fff;/*erasing a part of the original circle with a white triangle in order to make it look like a G*/
 	border-bottom: 100px solid transparent;
 	border-left: 100px solid transparent;
 	transform: rotate(90deg);
